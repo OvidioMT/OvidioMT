@@ -19,7 +19,7 @@ I am particularly interested in:
 ### [My Portfolio](https://portafolio-main-iota.vercel.app/)
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |---|---|
