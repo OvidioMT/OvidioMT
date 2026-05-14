@@ -19,43 +19,16 @@ I am particularly interested in:
 ### [My Portfolio](https://portafolio-main-iota.vercel.app/)
 ---
 
-<h2> Languages, Frameworks, and Tools </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td>
-         <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
-         ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-         <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,js,ts"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10 (px; vertical-align: center; border: none;">Database:</td>
-        <td>
-            <img height="40" src="https://skillicons.dev/icons?i=postgresql,firebase,sqlite"/>
-            <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-        </td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github"/></td>
-    </tr>
-   <tr>
-       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
-       <td>
-           <img height="40" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-           <img height="40" src="https://skillicons.dev/icons?i=unity" title="Unity"/>
-       </td>
-   </tr>
-</table>
+## ⚡ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![CSharp](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
+| **Version Control** | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) |
 
 
 ---
