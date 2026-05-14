@@ -10,13 +10,13 @@ Computer Engineering Student | Tecnológico de Costa Rica (TEC)
 I am currently studying Computer Engineering, a field that fascinates me, especially in programming. I enjoy learning new programming languages and creating projects that solve problems or simply allow me to explore new technologies. This has helped me develop technical skills and an analytical mindset.
 
 I am particularly interested in:
-- Web development (frontend / backend)  
-- Artificial intelligence / machine learning  
-- Data analysis  
-- DevOps, automation, and cloud infrastructure  
+- **Web development** (frontend / backend)  
+- **Artificial intelligence** / machine learning  
+- **Data analysis**  
+- **DevOps**, automation, and cloud infrastructure  
 
 ---
-### [My Portfolio](https://portafolio-main-iota.vercel.app/)
+### [🚀 My Portfolio](https://portafolio-main-iota.vercel.app/)
 ---
 
 <h2> Languages, Frameworks, and Tools </h2>
@@ -34,10 +34,10 @@ I am particularly interested in:
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td style="font-weight: bold; padding-right: 10 (px; vertical-align: center; border: none;">Database:</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=postgresql,firebase,sqlite"/>
             <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
@@ -51,14 +51,15 @@ I am particularly interested in:
        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
        <td>
            <img height="40" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-           <img height="40" src="https://skillicons.dev/icons?i=unity" title="VS Code"/>
+           <img height="40" src="https://skillicons.dev/icons?i=unity" title="Unity"/>
+       </td>
    </tr>
 </table>
 
 
 ---
 
-### &nbsp;GitHub Analytics
+### 📊 GitHub Analytics
 
 <table align="center">
   <tr>
