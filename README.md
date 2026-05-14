@@ -16,7 +16,7 @@ I am particularly interested in:
 - **DevOps**, automation, and cloud infrastructure  
 
 ---
-### [🚀 My Portfolio](https://portafolio-main-iota.vercel.app/)
+### [My Portfolio](https://portafolio-main-iota.vercel.app/)
 ---
 
 <h2> Languages, Frameworks, and Tools </h2>
@@ -25,6 +25,7 @@ I am particularly interested in:
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td>
          <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,python,java"/>
+         ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
          <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
         </td>
     </tr>
