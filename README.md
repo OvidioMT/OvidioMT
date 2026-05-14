@@ -33,7 +33,7 @@ I am particularly interested in:
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <table align="center">
   <tr>
