@@ -35,6 +35,7 @@ I am particularly interested in:
 
 ### GitHub Analytics
 
+corrige, me muestra menos commits y no muestra los PRs de ramas privadas:
 <table align="center">
   <tr>
     <td>
@@ -45,7 +46,6 @@ I am particularly interested in:
         />
       </a>
     </td>
-
     <td>
       <a href="https://github.com/OvidioMT">
         <img
