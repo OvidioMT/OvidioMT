@@ -40,13 +40,19 @@ I am particularly interested in:
     <td>
       <a href="https://github.com/OvidioMT">
         <img
-          height="180" src="https://github-readme-stats.vercel.app/api?username=OvidioMT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+          height="180"
+          alt="OvidioMT GitHub Stats"
+          src="https://github-readme-stats.vercel.app/api?username=OvidioMT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"
+        />
       </a>
     </td>
     <td>
       <a href="https://github.com/OvidioMT">
         <img
-          height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMT&layout=compact&langs_count=8&theme=algolia&count_private=true&hide_border=true"/>
+          height="180"
+          alt="OvidioMT Top Languages"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMT&layout=compact&langs_count=8&theme=algolia&count_private=true&hide_border=true"
+        />
       </a>
     </td>
   </tr>
