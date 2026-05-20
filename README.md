@@ -44,7 +44,7 @@ I am particularly interested in:
     </td>
     <td>
       <a href="https://github.com/OvidioMT">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OvidioMT&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OvidioMT&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
       </a>
     </td>
   </tr>
