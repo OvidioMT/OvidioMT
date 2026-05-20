@@ -35,24 +35,17 @@ I am particularly interested in:
 
 ### GitHub Analytics
 
+corrige, me muestra menos commits y no muestra los PRs de ramas privadas:
 <table align="center">
   <tr>
     <td>
       <a href="https://github.com/OvidioMT">
-        <img
-          height="180"
-          alt="GitHub Stats"
-          src="https://github-readme-stats.vercel.app/api?username=OvidioMT&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true"
-        />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OvidioMT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=10"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/OvidioMT">
-        <img
-          height="180"
-          alt="Top Languages"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=OvidioMT&layout=compact&langs_count=6&theme=algolia&hide_border=true"
-        />
+        <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OvidioMT&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
       </a>
     </td>
   </tr>
