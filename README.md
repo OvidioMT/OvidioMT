@@ -56,6 +56,6 @@ I am particularly interested in:
       </a>
     </td>
   </tr>
-</table>s
+</table>
 
 ---
