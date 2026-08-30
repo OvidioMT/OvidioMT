@@ -40,19 +40,16 @@ I am particularly interested in:
     <td>
       <a href="https://github.com/OvidioMT">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OvidioMT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=10"/>
+        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OvidioMT&theme=github_dark" alt="GitHub Stats&count_private=true" />
       </a>
     </td>
     <td>
       <a href="https://github.com/OvidioMT">
         <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OvidioMT&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
+        <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OvidioMT&theme=github_dark" alt="Top Languages" />
       </a>
     </td>
   </tr>
 </table>
 
 ---
-
-<div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OvidioMT&theme=github_dark" alt="GitHub Stats&count_private=true" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OvidioMT&theme=github_dark" alt="Top Languages" />
-</div>
