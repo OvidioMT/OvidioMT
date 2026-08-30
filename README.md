@@ -39,13 +39,11 @@ I am particularly interested in:
   <tr>
     <td>
       <a href="https://github.com/OvidioMT">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OvidioMT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=10"/>
         <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OvidioMT&count_private=true&theme=github_dark" alt="GitHub Stat" />
       </a>
     </td>
     <td>
       <a href="https://github.com/OvidioMT">
-        <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OvidioMT&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
         <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OvidioMT&theme=github_dark&count_private=true" alt="Top Languages" />
       </a>
     </td>
