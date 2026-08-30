@@ -51,3 +51,12 @@ I am particularly interested in:
 </table>
 
 ---
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OvidioMT&theme=github_dark" alt="GitHub Stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OvidioMT&theme=github_dark" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img width="600" height="133" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&backgroundColor=0d1117&quoteColor=c9d1d9&authorColor=58a6ff&symbolColor=00c6ff" />
+</p>
