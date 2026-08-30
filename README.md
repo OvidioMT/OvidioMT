@@ -53,6 +53,6 @@ I am particularly interested in:
 ---
 
 <div align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OvidioMT&theme=github_dark" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OvidioMT&theme=github_dark" alt="GitHub Stats&count_private=true" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OvidioMT&theme=github_dark" alt="Top Languages" />
 </div>
