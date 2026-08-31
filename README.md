@@ -16,9 +16,13 @@ I am particularly interested in:
 - **DevOps**, automation, and cloud infrastructure  
 
 ---
+
 <div align="center">
-### [My Portfolio](https://portafolio-main-iota.vercel.app/)
+  <h3>
+    <a href="https://portafolio-main-iota.vercel.app/">My Portfolio</a>
+  </h3>
 </div>
+
 ---
 
 ## Tech Stack
